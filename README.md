@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Video Walkthrough](#video-walkthrough)
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
@@ -12,6 +13,9 @@
 - [Questions](#questions)
 - [License](#license)
 
+## Video Walkthrough
+[Download Link](https://github.com/PotatoDoge1/Tech-Quiz-Test/raw/refs/heads/main/tech-quiz-test.mkv)  
+  
 ## Description
 Cypress component and e2e testing for a quiz application.   
   
