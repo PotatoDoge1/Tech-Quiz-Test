@@ -15,7 +15,8 @@
     "seed": "cd server && npm run seed",
     "render-build": "npm install && npm run build",
     "test-quiz-component": "npx cypress run --component",
-    "cypress": "npx cypress open"
+    "cypress": "npx cypress open",
+    "test": "npx cypress run --browser electron"
   },
   "keywords": [],
   "author": "",
