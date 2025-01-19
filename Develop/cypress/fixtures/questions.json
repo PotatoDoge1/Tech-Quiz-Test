@@ -1,0 +1,11 @@
+[
+    {
+        "question": "wow a question",
+        "answers": [
+            { "text": "answer1", "isCorrect": false },
+            { "text": "answer2", "isCorrect": false },
+            { "text": "answer3", "isCorrect": true },
+            { "text": "answer4", "isCorrect": false }
+        ]
+    }
+]
